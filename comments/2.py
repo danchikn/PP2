@@ -1,4 +1,0 @@
-"""
-dan
-"""
-print("Hi, World!")
