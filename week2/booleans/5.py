@@ -1,0 +1,11 @@
+print(bool(2132))
+print(bool({"apple", "banana", "cherry"}))
+
+print(bool())
+print(bool(0))
+print(bool(False))
+print(bool(None))
+print(bool(""))
+print(bool(()))
+print(bool({}))
+print(bool([]))
